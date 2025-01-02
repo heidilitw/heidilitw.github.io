@@ -160,4 +160,4 @@ awards:
 
 ## About Me
 
-I am currently working as a postdoctoral researcher at the Institute for Genomic Statistics and Bioinformatics at the University Hospital of Bonn in Germany. I received her bachelor’s, master’s, and Ph.D. degrees in Chemical Engineering. I utilized next-generation phenotyping tools poweered by Artificial Intelligence to analyze patient's frontal images as part of the GestaltMatcher project. I am also the software developer involved in GestaltMatcher Database (https://db.gestaltmatcher.org/).
+I am currently working as a postdoctoral researcher at the Institute for Genomic Statistics and Bioinformatics at the University Hospital of Bonn in Germany. I received my bachelor’s, master’s, and Ph.D. degrees in Chemical Engineering. I utilized next-generation phenotyping tools poweered by Artificial Intelligence to analyze patient's frontal images as part of the GestaltMatcher project. I am also the software developer involved in GestaltMatcher Database (https://db.gestaltmatcher.org).

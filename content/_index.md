@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on analyzing patients with Alagille syndrome, a rare genetic disorder characterized by distinctive facial features and systemic abnormalities. By leveraging advanced AI-driven facial image analysis, I aim to explore the potential of early diagnosis and newborn screening for Alagille syndrome. Her work highlights the transformative power of machine learning in clinical genetics and underscores the importance of integrating facial phenotyping into diagnostic workflows to improve outcomes for patients with rare disorders.
+        My research focuses on analyzing patients with Alagille syndrome, a rare genetic disorder characterized by distinctive facial features and systemic abnormalities. By leveraging advanced AI-driven facial image analysis, I aim to explore the potential of early diagnosis and newborn screening for Alagille syndrome. My work highlights the transformative power of machine learning in clinical genetics and underscores the importance of integrating facial phenotyping into diagnostic workflows to improve outcomes for patients with rare disorders.
     design:
       columns: '1'
   - block: collection
