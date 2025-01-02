@@ -51,16 +51,16 @@ interests:
 education:
   - area: PhD Chemical engineering
     institution: National Tsing Hua University, Taiwan
-    date_start: 2013-06
-    date_end: 2008-07
+    date_start: 2008-07-01
+    date_end: 2013-06-30
     summary: 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Bachelor in Chemical Engineering
     institution: National Cheng Kung University, Taiwan
-    date_start: 2008-06
-    date_end: 2004-07
+    date_start: 2004-07-01
+    date_end: 2008-06-30
     summary: 
 
 work:
