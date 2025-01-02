@@ -160,6 +160,4 @@ awards:
 
 ## About Me
 
-Dr. Jing-Mei Li is currently working as a postdoctoral researcher at the Institute for Genomic Statistics and Bioinformatics at the University Hospital of Bonn in Germany. She received her bachelor’s, master’s, and Ph.D. degrees in Chemical Engineering.
-
-She is currently working on next-generation phenotyping tools as part of the GestaltMatcher project and the GestaltMatcher Database. Her research focuses on analyzing patients with Alagille syndrome, a rare genetic disorder characterized by distinctive facial features and systemic abnormalities. By leveraging advanced AI-driven facial image analysis, Dr. Li aims to explore the potential of early diagnosis and newborn screening for Alagille syndrome. Her work highlights the transformative power of machine learning in clinical genetics and underscores the importance of integrating facial phenotyping into diagnostic workflows to improve outcomes for patients with rare disorders.
+I am currently working as a postdoctoral researcher at the Institute for Genomic Statistics and Bioinformatics at the University Hospital of Bonn in Germany. I received her bachelor’s, master’s, and Ph.D. degrees in Chemical Engineering. I utilized next-generation phenotyping tools poweered by Artificial Intelligence to analyze patient's frontal images as part of the GestaltMatcher project. I am also the software developer involved in GestaltMatcher Database (https://db.gestaltmatcher.org/).

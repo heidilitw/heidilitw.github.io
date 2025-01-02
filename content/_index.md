@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+My research focuses on analyzing patients with Alagille syndrome, a rare genetic disorder characterized by distinctive facial features and systemic abnormalities. By leveraging advanced AI-driven facial image analysis, I aim to explore the potential of early diagnosis and newborn screening for Alagille syndrome. Her work highlights the transformative power of machine learning in clinical genetics and underscores the importance of integrating facial phenotyping into diagnostic workflows to improve outcomes for patients with rare disorders.
     design:
       columns: '1'
   - block: collection
