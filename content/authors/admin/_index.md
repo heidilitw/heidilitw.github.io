@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jing-Mei Li
+title: Dr. Jing-Mei Li
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -64,28 +64,25 @@ education:
     summary: 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral researcher
+    company_name: University Hospital Bonn
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-11-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - GestaltMatcher Database
+      - Software development
+      - Analyzing patients with rare disorders by Artificial Intelligence
+  - position: Visiting Scholar
+    company_name: Ohio State University, United States
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-09-01
+    date_end: 2018-08-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -122,12 +119,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
+    percent: 90
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -163,4 +160,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Jing-Mei Li is currently working as a postdoctoral researcher at the Institute for Genomic Statistics and Bioinformatics at the University Hospital of Bonn in Germany. She received her bachelor’s, master’s, and Ph.D. degrees in Chemical Engineering.
+
+She is currently working on next-generation phenotyping tools as part of the GestaltMatcher project and the GestaltMatcher Database. Her research focuses on analyzing patients with Alagille syndrome, a rare genetic disorder characterized by distinctive facial features and systemic abnormalities. By leveraging advanced AI-driven facial image analysis, Dr. Li aims to explore the potential of early diagnosis and newborn screening for Alagille syndrome. Her work highlights the transformative power of machine learning in clinical genetics and underscores the importance of integrating facial phenotyping into diagnostic workflows to improve outcomes for patients with rare disorders.
