@@ -45,7 +45,8 @@ profiles:
 interests:
   - Artificial Intelligence
   - Database
-  - Rare disorders
+  - Software development
+  - Bioinformatics
   - Inorganic chemistry
 
 education:
