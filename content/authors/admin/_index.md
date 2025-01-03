@@ -50,12 +50,12 @@ interests:
   - Inorganic chemistry
 
 education:
-  - area: Exchange Student
+  - area: Visiting Scholar
     institution: Technische Universität Ilmenau, Germany
     date_start: 2013-07-01
     date_end: 2013-09-01
     summary: 
-  - area: Exchange Student
+  - area: Visiting Scholar
     institution: Université de Montpellier, France
     date_start: 2012-05-01
     date_end: 2013-04-01
