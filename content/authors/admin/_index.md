@@ -55,9 +55,6 @@ education:
     date_start: 2008-07-01
     date_end: 2013-06-30
     summary: 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: Bachelor in Chemical Engineering
     institution: National Cheng Kung University, Taiwan
     date_start: 2004-07-01
@@ -98,6 +95,14 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
+      - name: Ruby on Rails
+        description: ''
+        percent: 70
+        icon: chart-bar
+      - name: Javascript
+        description: ''
+        percent: 50
+        icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
@@ -114,10 +119,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera
+        icon: cooking
 
 languages:
   - name: Chinese
